@@ -1,0 +1,66 @@
+﻿"Historgrma.exe" (Win32): Carregado "C:\Users\frede\source\repos\Historgrma\x64\Debug\Historgrma.exe". Símbolos carregados.
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\ntdll.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\kernel32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\KernelBase.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\opencv\build\x64\vc14\bin\opencv_world430d.dll". Símbolos carregados.
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\gdi32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\win32u.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\gdi32full.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\msvcp_win.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\ucrtbase.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\user32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\ole32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\combase.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\rpcrt4.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\bcryptprimitives.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\advapi32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\msvcrt.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\sechost.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\oleaut32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\comdlg32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\SHCore.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\shlwapi.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\shell32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\cfgmgr32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\windows.storage.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\profapi.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\powrprof.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\umpdc.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\kernel.appcore.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\cryptsp.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\msvcp140d.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\vcruntime140d.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\vcruntime140_1d.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\ucrtbased.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.778_none_2a29d4a64667eb69\comctl32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\concrt140d.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\mfplat.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\mf.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\mfreadwrite.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\mfcore.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\crypt32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\msasn1.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\bcrypt.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\ksuser.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\cryptbase.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\imm32.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\RTWorkQ.dll". 
+O thread 0x2be8 foi fechado com o código 0 (0x0).
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\uxtheme.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\msctf.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\TextInputFramework.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\CoreUIComponents.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\CoreMessaging.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\ntmarta.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\WinTypes.dll". 
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\WinTypes.dll". 
+"Historgrma.exe" (Win32): Não carregado "C:\Windows\System32\WinTypes.dll"
+"Historgrma.exe" (Win32): Carregado "C:\Windows\System32\iertutil.dll". 
+O thread 0x45e4 foi fechado com o código 0 (0x0).
+O thread 0x3314 foi fechado com o código 0 (0x0).
+O thread 0x4d68 foi fechado com o código 0 (0x0).
+O thread 0x3c8 foi fechado com o código 0 (0x0).
+O thread 0x4998 foi fechado com o código 0 (0x0).
+O thread 0xc04 foi fechado com o código 0 (0x0).
+O thread 0x4d24 foi fechado com o código 0 (0x0).
+O programa "[14780] Historgrma.exe" foi fechado com o código 0 (0x0).
